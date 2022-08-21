@@ -1,2 +1,2 @@
-# reimagined-couscous
-Loading page about the youtube channel Scarlxrd
+# Scarlxrd
+Loading page inspired by Scarlxrd youtube channel
